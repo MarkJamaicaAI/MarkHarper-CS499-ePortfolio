@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mark Harper – CS 499 ePortfolio
+---
 # Mark Harper – CS 499 ePortfolio
 
 Welcome to my CS 499 ePortfolio. This site presents my professional self-assessment, code review, and enhanced artifacts demonstrating achievement of the Computer Science program outcomes.
