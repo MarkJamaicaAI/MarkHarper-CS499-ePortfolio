@@ -13,15 +13,21 @@ Welcome to my CS 499 ePortfolio. This site presents my professional self-assessm
 
 - [Professional Self-Assessment](narratives/self-assessment.md)
 
-***
+---
 
 ## Code Review
 
-- [Code Review Video](artifacts/code-review.md)
+- [Code Review Video](narratives/code-review.md)
 
-***
+---
 
 ## Enhanced Artifacts
 
 ### Software Design & Engineering
-- [Software Design Artifact](artifacts/software-design.md)
+- [Software Design Artifact](narratives/software-design.md)
+
+### Algorithms & Data Structures
+- [Algorithms Artifact](narratives/algorithms.md)
+
+### Databases
+- [Databases Artifact](narratives/databases.md)
