@@ -9,8 +9,7 @@ Below is my CS 499 code review presentation.
 
 ## Watch Video
 
-[Click here to watch the Code Review Video](PASTE_YOUR_VIDEO_LINK_HERE)
-
+[Download Code Review Video](../artifacts/MarkHarper_CS499_Milestone1_CodeReview.mp4)
 ---
 
 ## Summary
